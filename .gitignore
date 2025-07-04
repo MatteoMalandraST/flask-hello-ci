@@ -1,0 +1,12 @@
+# Cache e artefatti Python
+__pycache__/
+*.py[cod]
+
+# Ambiente virtuale
+.venv/
+
+# File di sistema macOS
+.DS_Store
+
+# Config VS Code
+.vscode/
